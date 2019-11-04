@@ -1,3 +1,0 @@
-test file
-ceci est un fichier test.
-3rd line.
